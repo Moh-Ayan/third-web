@@ -1,0 +1,22 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+td, th {
+  border: 3px solid #000000 ;
+
+}
+p{
+  color: #000000;
+}
+caption {
+  color: black;
+}
+body {
+  background-color: #8b89f0;
+}
+button {
+  background-color: #110de7;
+  color: white;
+}
